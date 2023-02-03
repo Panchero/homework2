@@ -1,0 +1,15 @@
+/Users/semenpancenko/Documents/GB/C#/C#_homework_2/Exercise_13/bin/Debug/net7.0/Exercise_13
+/Users/semenpancenko/Documents/GB/C#/C#_homework_2/Exercise_13/bin/Debug/net7.0/Exercise_13.deps.json
+/Users/semenpancenko/Documents/GB/C#/C#_homework_2/Exercise_13/bin/Debug/net7.0/Exercise_13.runtimeconfig.json
+/Users/semenpancenko/Documents/GB/C#/C#_homework_2/Exercise_13/bin/Debug/net7.0/Exercise_13.dll
+/Users/semenpancenko/Documents/GB/C#/C#_homework_2/Exercise_13/bin/Debug/net7.0/Exercise_13.pdb
+/Users/semenpancenko/Documents/GB/C#/C#_homework_2/Exercise_13/obj/Debug/net7.0/Exercise_13.csproj.AssemblyReference.cache
+/Users/semenpancenko/Documents/GB/C#/C#_homework_2/Exercise_13/obj/Debug/net7.0/Exercise_13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semenpancenko/Documents/GB/C#/C#_homework_2/Exercise_13/obj/Debug/net7.0/Exercise_13.AssemblyInfoInputs.cache
+/Users/semenpancenko/Documents/GB/C#/C#_homework_2/Exercise_13/obj/Debug/net7.0/Exercise_13.AssemblyInfo.cs
+/Users/semenpancenko/Documents/GB/C#/C#_homework_2/Exercise_13/obj/Debug/net7.0/Exercise_13.csproj.CoreCompileInputs.cache
+/Users/semenpancenko/Documents/GB/C#/C#_homework_2/Exercise_13/obj/Debug/net7.0/Exercise_13.dll
+/Users/semenpancenko/Documents/GB/C#/C#_homework_2/Exercise_13/obj/Debug/net7.0/refint/Exercise_13.dll
+/Users/semenpancenko/Documents/GB/C#/C#_homework_2/Exercise_13/obj/Debug/net7.0/Exercise_13.pdb
+/Users/semenpancenko/Documents/GB/C#/C#_homework_2/Exercise_13/obj/Debug/net7.0/Exercise_13.genruntimeconfig.cache
+/Users/semenpancenko/Documents/GB/C#/C#_homework_2/Exercise_13/obj/Debug/net7.0/ref/Exercise_13.dll
